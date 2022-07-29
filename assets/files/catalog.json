@@ -1,0 +1,78 @@
+{
+
+    "products" : [
+        {
+    "id": 1,
+    "name": "iPhone 13 Pro Max",
+    "desc": "Blue",
+    "price": 120000,
+    "color": "red",
+    "image":
+    "http://assets.stickpng.com/thumbs/61d2f96992b57c0004c64748.png" },
+        {
+            "id": 2,
+            "name": "iWatch",
+            "desc": "RoseGold",
+            "price": 17999,
+            "color": "red",
+            "image":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2a6visnZe_bY2prQdRsZP7Tcmeock5WXew&usqp=CAU"
+        },
+
+        {
+            "id": 3,
+            "name": "MacBook",
+            "desc": "RoseGold",
+            "price": 339999,
+            "color": "red",
+            "image":
+                "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFjYm9vayUyMHByb3xlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        {
+            "id": 4,
+            "name": "iPed",
+            "desc": "Gold",
+            "price": 139999,
+            "color": "red",
+            "image":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS68uwg-qVBNjzlt_WCcPAJJSd3KmubiZnWQ&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "OnePlus Nord 2",
+            "desc": "black Marble",
+            "price": 49999,
+            "color": "red",
+            "image":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_jQFD9VTKWtYVygZKkq9eWSArBAorIR32pw&usqp=CAU"
+        },
+
+        {
+            "id": 6,
+            "name": "OnePlus earbuds",
+            "desc": "white",
+            "price": 27999,
+            "color": "red",
+            "image":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIiEEJErcNDR7F-E2BP6EL6uH4vf_BHNslQ&usqp=CAU"},
+        {
+            "id": 7,
+            "name": "OnePlus 8",
+            "desc": "shine",
+            "price": 59999,
+            "color": "red",
+            "image":
+                "https://specifications-pro.com/wp-content/uploads/2020/03/OnePlus-8-5G-1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "OnePlus 7",
+            "desc": "Blue",
+            "price": 55999,
+            "color": "red",
+            "image":
+                "https://www.gizmochina.com/wp-content/uploads/2019/05/oneplus_7_pro--500x500.jpg"
+        }
+
+    ]
+}
